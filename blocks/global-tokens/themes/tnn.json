@@ -1,0 +1,66 @@
+{
+    "fonts": {
+        "acumin-pro": "'Acumin Pro', sans-serif",
+        "acumin-pro-bold": "'Acumin Pro Bold', sans-serif",
+        "acumin-pro-condensed-regular": "'Acumin Pro Condensed Regular'",
+        "acumin-pro-extra-condensed": "'Acumin Pro ExtraCondensed'",
+        "acumin-pro-condensed-bold": "'Acumin Pro Condensed Bold'"
+    },
+    "colors": {
+        "white": "#fff",
+        "off-white": "#f8f8f8",
+        "black": "#000",
+        "red": "#854852",
+        "red-2": "#e71b28",
+        "blue-1": "#7fa6bc",
+        "blue-2": "#004e79",
+        "blue-3": "#418db7",
+        "blue-4": "#337ab7",
+        "blue-5": "#31b9bd",
+        "blue-6": "#81d9db",
+        "blue-7": "#00b0b9",
+        "blue-8": "#a7dde3",
+        "blue-9": "#e0f6f7",
+        "grey-1": "#ccc",
+        "grey-2": "#a7a9ab",
+        "grey-3": "#e5e5e5",
+        "grey-4": "#7f7f7f",
+        "grey-5": "#b2b2b2",
+        "grey-6": "#c3c3c3",
+        "grey-7": "#151515",
+        "grey-8": "#f0f0f0",
+        "grey-9": "#2d2d2d",
+        "grey-10": "#808080",
+        "grey-11": "#e2e3e4",
+        "grey-12": "#333",
+        "grey-13": "#f2f2f3",
+        "grey-14": "#c4cdd3",
+        "grey-15": "#707070"
+    },
+    "sizes": {
+        "mobileS": "320px",
+        "mobileM": "375px",
+        "mobileL": "425px",
+        "tablet": "768px",
+        "laptop": "1024px",
+        "laptopL": "1440px",
+        "desktop": "2560px"
+    },
+    "displays": [
+        "none",
+        "inline-block",
+        "block",
+        "flex",
+        "inline-flex",
+        "grid"
+    ],
+    "spacers": {
+        "xxs": "0.25rem",
+        "xs": "0.5rem",
+        "sm": "1rem",
+        "md": "1.5rem",
+        "lg": "2rem",
+        "xl": "3rem",
+        "xxl": "4rem"
+    }
+}

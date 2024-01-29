@@ -1,0 +1,6 @@
+{
+    "default": "min-width: 0",
+    "tablet": "min-width: 48rem",
+    "desktop" : "min-width: 64rem",
+    "laptop" : "min-width: 90rem"
+}
